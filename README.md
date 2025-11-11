@@ -1,7 +1,7 @@
 <p align="center">
 🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> — IFPE<br>
 💻 <strong>Formado em Defesa Cibernética</strong> — Estácio<br>
-👷 <strong>Atualmente trabalhando na área de Redes e Telecomunicações</strong>
+👷 <strong>Atualmente trabalhando na área de Rede de Monitoramento de Internet e Telecomunicações</strong>
 </p>
 
 ---
