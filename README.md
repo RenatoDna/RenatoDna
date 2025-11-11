@@ -1,15 +1,15 @@
-<h1 align="center">👋 Olá, Me Renato!</h1>
+<h1 align="center">👋 Olá, eu sou o Renato!</h1>
 
 <p align="center">
 🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> — IFPE<br>
 💻 <strong>Formado em Defesa Cibernética</strong> — Estácio<br>
-👷 <strong>Atualmente trabalhando na área de Redes e Monitoramento de internet e Telecomunicações</strong>
+👷 <strong>Atualmente trabalhando na área de Redes e Telecomunicações</strong>
 </p>
 
 ---
-<p align="center">
-🚀 Estou aprendendo
-</p>
+
+## 🚀 Estou aprendendo
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
@@ -23,8 +23,19 @@
 
 ---
 
+## 📊 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenatoDna&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDna&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RenatoDna&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak"/>
+</p>
+
+---
+
 <p align="center">
   🌱 <em>“Aprendendo sempre, um commit de cada vez.”</em>
 </p>
-
-
