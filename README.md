@@ -1,15 +1,15 @@
-<h1 align="center">👋 Olá, eu sou o Renato!</h1>
+<h1 align="center">👋 Olá, Me Renato!</h1>
 
 <p align="center">
 🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> — IFPE<br>
 💻 <strong>Formado em Defesa Cibernética</strong> — Estácio<br>
-👷 <strong>Atualmente trabalhando na área de Redes e Telecomunicações</strong>
+👷 <strong>Atualmente trabalhando na área de Redes e Monitoramento de internet e Telecomunicações</strong>
 </p>
 
 ---
-
-## 🚀 Estou aprendendo
-
+<p align="center">
+🚀 Estou aprendendo
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
