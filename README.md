@@ -1,5 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Renato!</h1>
-
 <p align="center">
 🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> — IFPE<br>
 💻 <strong>Formado em Defesa Cibernética</strong> — Estácio<br>
@@ -8,7 +6,7 @@
 
 ---
 
-## 🚀 Estou aprendendo
+## 🚀 <strong>Estou aprendendo</strong>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -23,7 +21,7 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 <strong>Minhas estatísticas no GitHub</strong>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RenatoDna&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
