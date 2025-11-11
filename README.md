@@ -30,9 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDna&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RenatoDna&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak"/>
-</p>
 
 ---
 
